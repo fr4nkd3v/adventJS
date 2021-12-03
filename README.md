@@ -1,4 +1,4 @@
-# adventJS 2021
+# Challenge adventJS 2021
 25 días de retos con JavaScript https://adventjs.dev/ by [Midudev](https://midu.dev/)
 
 ## ¡Cada día un nuevo reto!
