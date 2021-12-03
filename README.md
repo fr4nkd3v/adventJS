@@ -1,7 +1,7 @@
 # adventJS 2021
 25 días de retos con JavaScript https://adventjs.dev/ by [Midudev](https://midu.dev/)
 
-##¡Cada día un nuevo reto!
+## ¡Cada día un nuevo reto!
 Arranca el 1 de diciembre y hasta el 25 de diciembre, todos los días, un reto nuevo para que lo soluciones con JavaScript. ¡Compite con tus amigos!
 
 ### #01 Contando ovejas para dormir
