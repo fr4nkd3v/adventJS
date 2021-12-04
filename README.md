@@ -13,5 +13,5 @@ Con la emoción de que llega la navidad, nos está costando dormir bastante últ
 
 ### #02 ¡Ayuda al elfo a listar los regalos!
 
-¡Menudo lío! Un elfo está ayudando a Santa Claus. Pensaba que le vendría ya ordenado de cada regalo cuantas unidades debe conseguir... ¡y le ha llegado una carta! ¡Ayúdale!
+¡Menudo lío! Un elfo está ayudando a Santa Claus. Pensaba que le vendría ya ordenado de cada regalo cuantas unidades debe conseguir.. ¡y le ha llegado una carta! ¡Ayúdale!
 [Link Reto #2](https://adventjs.dev/challenges/02)
