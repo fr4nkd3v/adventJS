@@ -35,9 +35,9 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
-body {
-	/* line-height: 1; */
-}
+/* body {
+	line-height: 1;
+} */
 blockquote, q {
 	quotes: none;
 }
@@ -62,8 +62,6 @@ h1, h2, h3, h4, h5, h6, header {
 	font-family: 'Montserrat', sans-serif;
   font-weight: 800;
 }
-article {
-}
 header {
 	border-bottom: 1px solid rgb(221,221,221);
 	transition: border-bottom-color 1s ease;
@@ -83,10 +81,10 @@ footer a {
 	color: rgba(0, 0, 0, 0.8);
 }
 a {
-	color: #F80002;
+	color: #f86300;
 }
 h1 > a, h2 > a, h3 > a, h4 > a, h5 > a, h6 > a {
-  color: #f58b44;
+  color: #0fb8d6;
 }
 
 
@@ -164,7 +162,7 @@ p {
 	margin-bottom: 15px;
 }
 h1 {
-	font-size: 36px;
+	font-size: 40px;
 	margin: 40px 0 20px;
 }
 h2 {
@@ -172,7 +170,7 @@ h2 {
 	margin: 30px 0 15px;
 }
 h3 {
-	font-size: 28px;
+	font-size: 26px;
 	margin: 25px 0 10px;
 }
 h4 {
@@ -218,4 +216,8 @@ img.small {
   justify-content: space-between;
 
   margin-top: 5rem;
+}
+p {
+  font-size: 1.2rem;
+  line-height: 1.7rem;
 }
