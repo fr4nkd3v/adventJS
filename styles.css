@@ -1,7 +1,7 @@
 /* Importing webfonts */
 /* (If you're learning CSS, you should disregard that) */
 
-@import url(https://fonts.googleapis.com/css2?family=Lato&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap);
 @import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@600;800&display=swap);
 
 /* CSS reset rules */
@@ -55,13 +55,15 @@ table {
 /* Fonts and colors */
 
 body {
-	font-family: 'Lato', serif;
-	color: #444;
+	font-family: 'Open Sans', serif;
+  color: #555;
+  font-weight: 400;
 }
 h1, h2, h3, h4, h5, h6, header {
 	font-family: 'Montserrat', sans-serif;
   font-weight: 800;
 }
+
 header {
 	border-bottom: 1px solid rgb(221,221,221);
 	transition: border-bottom-color 1s ease;
@@ -211,6 +213,7 @@ img.small {
 }
 
 /* ADITIONALS RULES */
+
 .pagination {
   display: flex;
   justify-content: space-between;
@@ -220,4 +223,54 @@ img.small {
 p {
   font-size: 1.2rem;
   line-height: 1.7rem;
+  color: #666;
+}
+
+.normal {
+  font-weight: initial;
+}
+.challenge-container {
+  margin: 1rem 0;
+  padding: 0;
+}
+.challenge-container > p{
+  margin-top: .5rem;
+  text-align: right;
+}
+
+.challenge {
+  display: block;
+
+  color: inherit;
+  text-decoration: none;
+  background-color: #f1f6f7;
+  padding: .5rem 2rem 1rem;
+  border-radius: .5rem;
+}
+.challenge h3{
+  color: #428c99;
+  font-weight: 600;
+}
+
+.challenge:hover h3{
+  color: #05c8d6;
+  font-weight: 600;
+}
+
+.separator {
+  border-bottom: solid 1px #DDD;
+  margin: 1rem 0 1.5rem;
+}
+b {
+  font-weight: 700;
+  color: #444;
+}
+code {
+  font-family: monospace;
+  background-color: peachpuff;
+  font-weight: 600;
+  color: tomato;
+
+  padding: 0 5px;
+  border-radius: 4px;
 }

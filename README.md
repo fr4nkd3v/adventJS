@@ -8,7 +8,7 @@ Arranca el 1 de diciembre hasta el 25 de diciembre, todos los días, un reto nue
 
 ## Repositorios por día
 
-Este es el índice de todas las clases por día:
+Este es el índice de todas los retos por día:
 
 - [Día 01](/01)
 - [Día 02](/02)
